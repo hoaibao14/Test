@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\bin\Debug\RecoverTheArray.exe
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\bin\Debug\RecoverTheArray.pdb
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.Form1.resources
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.Properties.Resources.resources
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.exe
+C:\inetpub\wwwroot\js\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.pdb
+D:\Test1\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.exe
+D:\Test1\RecoverTheArray\RecoverTheArray\obj\x86\Debug\RecoverTheArray.pdb
